@@ -8,6 +8,8 @@ public class FeedbackAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FeedbackAppApplication.class, args);
+		
+		System.out.println("Hello Again");
 	}
 
 }
